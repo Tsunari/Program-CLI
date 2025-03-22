@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "NotePad++",
+    "WingetCommandId": "Notepad++.Notepad++"
+  },
+  {
+    "Name": "Google Chrome",
+    "Url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "InstallCommand": "/silent /install",
+    "WingetCommandId": "Google.Chrome"
+  },
+  {
+    "Name": "Visual Studio Code",
+    "Url": "https://update.code.visualstudio.com/latest/win32-x64-user/stable",
+    "InstallCommand": "/silent",
+    "WingetCommandId": "Microsoft.VisualStudioCode"
+  },
+  {
+    "Name": "7-Zip",
+    "Url": "https://www.7-zip.org/a/7z2301-x64.exe",
+    "InstallCommand": "/S",
+    "WingetCommandId": "7zip.7zip"
+  },
+  {
+    "Name": "Mozilla Thunderbird",
+    "WingetCommandId": "Mozilla.Thunderbird"
+  },
+  {
+    "Name": "Notepad++",
+    "Url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.7/npp.8.5.7.Installer.x64.exe",
+    "InstallCommand": "/S",
+    "WingetCommandId": "Notepad++.Notepad++"
+  },
+  {
+    "Name": "Mozilla Firefox",
+    "Url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US",
+    "InstallCommand": "/S",
+    "WingetCommandId": "Mozilla.Firefox"
+  },
+  {
+    "Name": "Git",
+    "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe",
+    "InstallCommand": "/SILENT",
+    "WingetCommandId": "Git.Git"
+  },
+  {
+    "Name": "Zoom",
+    "Url": "https://zoom.us/client/latest/ZoomInstaller.exe",
+    "InstallCommand": "/quiet",
+    "WingetCommandId": "Zoom.Zoom"
+  },
+  {
+    "Name": "Slack",
+    "Url": "https://downloads.slack-edge.com/releases_x64/SlackSetup.exe",
+    "InstallCommand": "/silent",
+    "WingetCommandId": "SlackTechnologies.Slack"
+  }
+]

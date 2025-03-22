@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "NotePad++",
+    "WingetCommandId": "Notepad++.Notepad++"
+  },
+  {
+      "Name": "Google Chrome",
+      "WingetCommandId": "Google.Chrome"
+  },
+  {
+      "Name": "Visual Studio Code",
+      "WingetCommandId": "Microsoft.VisualStudioCode"
+  },
+  {
+      "Name": "7-Zip",
+      "WingetCommandId": "7zip.7zip"
+  },
+  {
+      "Name": "Mozilla Thunderbird",
+      "WingetCommandId": "Mozilla.Thunderbird"
+  },
+  {
+      "Name": "Git",
+      "Url": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe",
+      "InstallCommand": "/SILENT",
+      "WingetCommandId": "Git.Git"
+  },
+  {
+      "Name": "Zoom",
+      "Url": "https://zoom.us/client/latest/ZoomInstaller.exe",
+      "InstallCommand": "/quiet",
+      "WingetCommandId": "Zoom.Zoom"
+  }
+]
